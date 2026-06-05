@@ -152,8 +152,8 @@ export default function Index() {
       {/* NAV */}
       <header className="fixed top-0 left-0 right-0 z-50 px-6 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-2.5 bg-white/80 backdrop-blur-md px-4 py-2.5 rounded-2xl shadow-sm border border-beige-mid">
-            <span className="text-2xl">🌿</span>
+          <div className="flex items-center gap-2 bg-white/80 backdrop-blur-md px-3 py-2 rounded-2xl shadow-sm border border-beige-mid">
+            <img src="https://cdn.poehali.dev/projects/04112904-6381-486e-bf36-548e9443f9a8/bucket/3d1939db-2fc5-4441-972f-0434ea4f03bc.png" alt="Зелёный Дом" className="h-9 w-9 object-contain" />
             <span className="font-cormorant text-xl font-semibold text-green-main tracking-wide">Зелёный Дом</span>
           </div>
 
@@ -558,7 +558,7 @@ export default function Index() {
       <footer className="bg-green-deep border-t border-white/10 px-6 py-8">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
-            <span className="text-xl">🌿</span>
+            <img src="https://cdn.poehali.dev/projects/04112904-6381-486e-bf36-548e9443f9a8/bucket/3d1939db-2fc5-4441-972f-0434ea4f03bc.png" alt="Зелёный Дом" className="h-8 w-8 object-contain" />
             <span className="font-cormorant text-lg font-semibold text-primary-foreground/80">Зелёный Дом</span>
           </div>
           <p className="text-xs font-golos text-primary-foreground/40 text-center">
